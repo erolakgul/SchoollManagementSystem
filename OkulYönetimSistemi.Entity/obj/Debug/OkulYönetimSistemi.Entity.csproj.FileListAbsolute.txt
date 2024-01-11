@@ -1,0 +1,10 @@
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.Entity\bin\Debug\OkulYönetimSistemi.Entity.dll.config
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.Entity\bin\Debug\OkulYönetimSistemi.Entity.dll
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.Entity\bin\Debug\OkulYönetimSistemi.Entity.pdb
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.Entity\bin\Debug\EntityFramework.dll
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.Entity\bin\Debug\EntityFramework.xml
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.Entity\obj\Debug\OkulYönetimSistemi.Entity.dll
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.Entity\obj\Debug\OkulYönetimSistemi.Entity.pdb
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.Entity\obj\Debug\OkulYönetimSistemi.Entity.csprojResolveAssemblyReference.cache

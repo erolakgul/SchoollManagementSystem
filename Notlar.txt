@@ -1,0 +1,31 @@
+
+* Entity Katmaný * DAL Katmaný *BL Katmaný :
+        
+		 solution a sað týk add new project class library olarak eklendi
+                 daha sonra entity projesine sað týk add new item dan config dosyalarý eklendi ve içerikleri yazýldý
+				                                                                                  (benzer olan projeden)
+                 reference lara da entity framwork dll leri ile datanotation dll i bilgeanaokulu projesinin datanotations
+				       reference ýna sað týk view browser diyerek dll in yeri bulundu,daha sonra add referense browse tan
+					             projeye eklendi.
+
+* UI Katmaný  : solution a sað týk add new project windows form app olarak eklendi.
+
+-----------------------  app.config ve packages.config dosyalarý class library lere el ile eklendi
+      <<<<REFERENCES>>>>>>
+	  **TÜM CLASS LÝBRARY VE FORM APP LERDE ENTÝTY FRAMEWORK VE DATANOTATION YÜKLÜDÜR
+ENTÝTY --> KÝMSEYÝ GÖRMEZ,BASE BÝR BAKIMA
+DAL --->>> ENTÝTY Ý GÖRÜR
+BL  --->>> ENTÝTY VE DAL I GÖRÜR
+UI  --->>> BL VE ENTÝTY Ý GÖRÜR
+
+*******************************************************
+code first entitileri db ye aktarma : 
+                context sýnýfý hangi katmana yazýldýysa package manager console da default proje o seçiliyken
+				      Enable-Migrations ve Update-Database komutlarý uygulanýr vs db oluþturulur.
+
+
+----- EKRAN SABÝTLEMELERÝ
+FORMBORDERSTYLE-FixedSingle MaximizeBox-MinimizeBox =false yapýlýr
+
+---
+

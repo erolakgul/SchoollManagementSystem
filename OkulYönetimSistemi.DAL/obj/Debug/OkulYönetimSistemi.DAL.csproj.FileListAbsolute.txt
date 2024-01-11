@@ -1,0 +1,12 @@
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.DAL\bin\Debug\OkulYönetimSistemi.DAL.dll.config
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.DAL\bin\Debug\OkulYönetimSistemi.DAL.dll
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.DAL\bin\Debug\OkulYönetimSistemi.DAL.pdb
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.DAL\bin\Debug\EntityFramework.dll
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.DAL\bin\Debug\OkulYönetimSistemi.Entity.dll
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.DAL\bin\Debug\OkulYönetimSistemi.Entity.pdb
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.DAL\bin\Debug\EntityFramework.xml
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.DAL\obj\Debug\OkulYönetimSistemi.DAL.csprojResolveAssemblyReference.cache
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.DAL\obj\Debug\OkulYönetimSistemi.DAL.dll
+C:\Users\atakan\Documents\Visual Studio 2013\Projects\OkulYönetimSistemi\OkulYönetimSistemi.DAL\obj\Debug\OkulYönetimSistemi.DAL.pdb
